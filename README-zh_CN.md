@@ -1,6 +1,4 @@
-# Life Restart
-
-<a href="https://discord.gg/U3qrf49NMQ"><img src="https://img.shields.io/discord/883382868427014255?color=%23FEE75C&label=Discord&logo=discord&logoColor=white&style=for-the-badge" /></a>
+# LifeRestart-plus
 
 [English](./README.md) | 简体中文
 
@@ -17,7 +15,7 @@
 1. 下载项目代码。
 
 ```bash
-git clone https://github.com/KetsuLou/lifeRestart.git my-project
+git clone https://github.com/KetsuLou/LifeRestart.git my-project
 cd my-project
 ```
 
