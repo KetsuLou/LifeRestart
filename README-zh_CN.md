@@ -4,6 +4,20 @@
 
 [English](./README.md) | 简体中文
 
+## demo
+
+- 魔改版: [LifeRestart-SX](https://github.com/KetsuLou/LifeRestart/tree/SX)
+
+- plus: [LifeRestart-plus](https://github.com/KetsuLou/LifeRestart/tree/plus)
+
+## 在线游戏
+
+- 普通版: [LifeRestart-nomal](https://www.jacklou.cn/game/life-restart/index.html)
+
+- 魔改版: [LifeRestart-SX](https://www.jacklou.cn/game/life-restart/LifeRestart-SX/index.html)
+
+- plus: [LifeRestart-plus](https://www.jacklou.cn/game/life-restart/LifeRestart-plus/index.html)
+
 ## 简介
 
 - Game Life Restart

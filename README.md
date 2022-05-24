@@ -4,6 +4,20 @@
 
 English | [简体中文](./README-zh_CN.md)
 
+## demo
+
+- SX: [LifeRestart-SX](https://github.com/KetsuLou/LifeRestart/tree/SX)
+
+- plus: [LifeRestart-plus](https://github.com/KetsuLou/LifeRestart/tree/plus)
+
+## online
+
+- nomal: [LifeRestart-nomal](https://www.jacklou.cn/game/life-restart/index.html)
+
+- SX: [LifeRestart-SX](https://www.jacklou.cn/game/life-restart/LifeRestart-SX/index.html)
+
+- plus: [LifeRestart-plus](https://www.jacklou.cn/game/life-restart/LifeRestart-plus/index.html)
+
 ## Introduction
 
 - Game Life Restart
